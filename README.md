@@ -15,4 +15,7 @@ to install node modules
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+In ApiService.tsx, replace apiurl var with the reference server "https://seng365.csse.canterbury.ac.nz/api/v1/"
+
 Created with create-react-app
+
